@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatechie</groupId>
-	<artifactId>Building thr gradle</artifactId>
+	<artifactId>Building-the-gradle</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>devops-integration</name>
 	<description>Demo project for Spring Boot</description>
@@ -57,7 +57,7 @@
 				<artifactId>git-commit-id-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>Building the gradle</finalName>
+		<finalName>Building-the-gradle</finalName>
 	</build>
 
 </project>
